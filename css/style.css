@@ -99,18 +99,17 @@ button {
     color: white;
     font-size: 15px;
     font-weight: 500;    
-    width: 130px;
-    height: 40px;
+    width: 128px;
+    height: 38px;
     border: none;
     border-radius: 20px;
     cursor: pointer;
 }
 
 button:hover {
-    background-color: #017143;
+    background-color: #33986e;
     color: white;
 }
-
 
 .content .imgBox {
     width: 600px;
@@ -143,7 +142,6 @@ button:hover {
 
 .thumb li:hover {
     transform: translateY(-15px);
-
 }
 
 .thumb li img {
